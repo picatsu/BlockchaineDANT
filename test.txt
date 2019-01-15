@@ -1,0 +1,3 @@
+Client;0;y;y;y;;y;y;100
+Client;0;o;o;o;o;o;o;100
+Client;1;p;p;p;p;p;p;100
